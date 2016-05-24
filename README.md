@@ -15,16 +15,16 @@ INSTRUCTIONS:
 
 FEATURES:
 -------------------------------
-✔* Javascript (Node + Express)
-✔* Node
-✔* Express
-✔* HTML
-✔* CSS 
-✔* ReactJS 
-✔* ES5
-✔* ES6 
-✔* Javascript Promises
-✔* Webpack + Babel
-✔* Documentation
-✔* Integrate with Mailtrap.io 
-✔* Integrate with Google Finance
+* Javascript
+* Node
+* Express
+* HTML
+* CSS 
+* ReactJS 
+* ES5
+* ES6 
+* Javascript Promises
+* Webpack + Babel
+* Documentation
+* Integrate with Mailtrap.io 
+* Integrate with Google Finance
